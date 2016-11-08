@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Project</string>
+    <string name="title_activity_swipe_back">SwipeBackActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="large_text">Simply a ViewStub is used to increase efficiency of rendering layout. By using ViewStub, manually views can be created but not added to view hierarchy. At the runtime, can be easily inflated, while ViewStub is inflated, the content of the viewstub will be replaced the defined layout in the viewstub.</string>
+    <string name="title_activity_class">ClassActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
 </resources>
