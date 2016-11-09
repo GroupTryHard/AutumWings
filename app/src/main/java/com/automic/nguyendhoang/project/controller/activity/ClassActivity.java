@@ -41,9 +41,9 @@ public class ClassActivity extends AppCompatActivity {
         viewPager.setAdapter(mTabFragmentAdapter);
         tabLayout.setupWithViewPager(viewPager);
 
-        for (int i=0; i<tabLayout.getTabCount(); i++){
-            tabLayout.getTabAt(i).setCustomView(mTabFragmentAdapter.getView(i));
-        }
+//        for (int i=0; i<tabLayout.getTabCount(); i++){
+//            tabLayout.getTabAt(i).setCustomView(mTabFragmentAdapter.getView(i));
+//        }
     }
 
 

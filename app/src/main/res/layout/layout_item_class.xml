@@ -33,7 +33,6 @@
             android:layout_marginTop="3dp"
             android:textColor="@color/White"
             android:textAllCaps="true"/>
-
         <TextView
             android:text="@string/large_text"
             android:layout_width="match_parent"

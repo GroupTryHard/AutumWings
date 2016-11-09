@@ -155,6 +155,7 @@
     <color name="hoa">@color/lavender</color>
     <color name="anh">@color/dustyrose</color>
 
+    <color name="tran">#00ffffff</color>
 
 
 </resources>
